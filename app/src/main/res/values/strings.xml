@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Isi Keseharianmu pada aplikasi ini</string>
+    <string name="title_welcome_page">Selamat datang di Story App</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk Update Keseharianmu?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+
+    <string name="created_date">Tanggal Dibuat</string>
+    <string name="description">Deskripsi</string>
+    <string name="copyright">© 2022</string>
+    <string name="label_change_language_settings">Pengaturan Ubah Bahasa</string>
+    <string name="label_invalid_email">Format Email tidak valid</string>
+    <string name="label_validation_password">Password tidak boleh kurang dari 6 karakter</string>
+    <string name="validate_register_success">User telah dibuat!</string>
+    <string name="validate_register_failed">Email sudah ada!</string>
+    <string name="login_user_not_found">User tidak ditemukan!</string>
+    <string name="validate_login_success">Login berhasil!</string>
+    <string name="input_name">Masukan Nama</string>
+    <string name="input_email">Masukan Email</string>
+    <string name="input_password">Masukan Password</string>
+    <string name="description_mandatory">Deskripsi harus di isi</string>
+    <string name="image_mandatory">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="permission">Gagal mendapatkan permission.</string>
+    <string name="choose_picture">Pilih Gambar</string>
+    <string name="failed_take_picture">Gagal mengambil gambar.</string>
+    <string name="failed_bring_up_camera">Gagal menampilkan kamera.</string>
+    <string name="info">Informasi</string>
+    <string name="dashboard_story">Dashboard Story App</string>
+
+    <string name="camera">Kamera</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="signout">Keluar</string>
+    <string name="gallery">Galeri</string>
+    <string name="save">Simpan</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="upload_failed">Upload gagal, coba periksa kembali koneksi internet</string>
+    <string name="address_not_found">User tidak menyimpan lokasi\n</string>
+</resources>
